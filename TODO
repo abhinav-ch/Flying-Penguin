@@ -1,0 +1,7 @@
+Fix bug where when we click on the canvas twice and let the penguin die the game over text is spammed.
+Sound effects
+Make "//comments" "// Comments."
+Big screen
+Music
+Polish "game over" text (remove caps and put bold/colour change or something)
+Polish the UI

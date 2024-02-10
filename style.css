@@ -1,0 +1,29 @@
+body {
+    font-family: sans-serif;
+}
+
+
+p {
+    padding: 0.24em;
+    line-height: 1.24em;
+}
+
+
+h1 {
+    margin-bottom: 2.3em;
+}
+
+
+a:link, p a:link {
+    color: blue;
+}
+
+
+a:visited {
+    color: rgb(224, 40, 226);
+}
+
+
+canvas {
+    background-color: rgb(204, 239, 255);
+}
